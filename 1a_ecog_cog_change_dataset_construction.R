@@ -272,7 +272,7 @@ khandle2 <- khandle_wide %>% dplyr::select(
     !is.na(w1_d_senas_exec_z) &
       !is.na(w1_d_senas_vrmem_z) &
       !is.na(w1_interview_age_final) &
-    w1_d_race_summary != "Native American" # dropping this individual :(
+    w1_d_race_summary != "Native American" # dropping this individual for analysis
   )
 
 # 1689 observations
