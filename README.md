@@ -1,4 +1,4 @@
-Code structure: The main code works in 3 main phases: data setup, exploratory analysis, and main analysis. Each phase is summarized below. Scripts run top to bottom, or can use the "here" package to call in/save intermediate datasets (commented out). 
+Code structure: The code works in 3 main phases: data setup, exploratory analysis, and main analysis. Each phase is summarized below. Scripts run top to bottom, or can use the "here" package to call in/save intermediate datasets (commented out). 
 
 
 Data setup
